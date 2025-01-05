@@ -4,7 +4,7 @@ public class Lab_004
     {
         for(int i=1;i<=5;i++)
         {
-            System.out.println("print *");
+            System.out.println("print");
 
         }
     }
