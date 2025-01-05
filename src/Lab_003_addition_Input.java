@@ -15,6 +15,6 @@ public class Lab_003_addition_Input {
         System.out.println("Enter third value");
         d=sonali.nextFloat();
         c=a+b+d;
-        System.out.println("Addition of two integer numbers\n"+c);
+        System.out.println("Addition of two integer  and a float numbers\n"+c);
     }
 }
