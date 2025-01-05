@@ -12,6 +12,6 @@ public class Lab_003_addition_Input {
         System.out.println("Enter Second value");
         b=sonali.nextInt();
         c=a+b;
-        System.out.println("Addition of two integer numbers\n96358"+c);
+        System.out.println("Addition of two integer numbers\n"+c);
     }
 }
